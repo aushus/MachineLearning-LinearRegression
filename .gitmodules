@@ -1,3 +1,6 @@
 [submodule "AnimeRatingsCaseStudy"]
 	path = AnimeRatingsCaseStudy
 	url = https://github.com/aushus/Anime-Ratings-Case-Study
+[submodule "UsedCarPrediction"]
+	path = UsedCarPrediction
+	url = https://github.com/aushus/Used-Car-Price-Prediction
